@@ -1,3 +1,8 @@
+### Introduction
+Hello! This is a minecraft generation project that I did with two team members. We were tasked to create a random Minecraft village generator to end up creating paths, houses and decorations. 
+This is the reference for the API we used:
+https://www.stuffaboutcode.com/p/minecraft-api-reference.html
+
 ### Minecraft API Setup and Usage Guide
 
 This README provides detailed instructions on how to set up and use the Minecraft Python API (MCPI) to generate Minecraft houses using the `main.py` script.
