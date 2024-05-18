@@ -1,4 +1,4 @@
-### Introduction
+## Introduction
 Hello! This project is a Minecraft village generator that I developed with two team members. Our task was to create a generator that produces random paths, houses, and decorations in Minecraft. For this, we used the Minecraft API, which you can reference here:(https://www.stuffaboutcode.com/p/minecraft-api-reference.html).
 
 ### Minecraft API Setup and Usage Guide
